@@ -1,5 +1,26 @@
 * {
   box-sizing: border-box;
+  font-family: helvetica;
 }
 
+h1 {
+  text-align: center;
+}
+
+section {
+  background-color: #999999;
+}
+
+#chicken {
+  background-color: #D49899;
+}
+
+#beef {
+  background-color: #BF4646;
+  color: white;
+}
+
+#sushi {
+  background-color: #E4D09B;
+}
 /* Simple Responsive Framework */
